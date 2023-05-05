@@ -1,0 +1,46 @@
+
+## 2.1.1 Network Application Achitectures
+
+- Application network architectures have two predominant paradigms: P2P and cliente-server arch
+
+- ### client server arch: 
+	- server and client
+	- server always have an well-known ip adress, and because of it a client can always contact the server by sending a packet to server's IP adress.
+	- FTP, Telnet and e-mail are examples
+	- data center houses numerous servers
+
+- ### P2P
+	- direct communication between pairs "peers"
+	- self-scalability
+	- torrent is an exanple
+
+![[network_archtectures.png]]
+
+
+---
+- ## 2.1.2 Processes Communicating
+
+	- process and not programs comunicate over a network
+	- process sends messages into and receives from **sockets**
+	- a socket is the interface between application layer and transport layer within a host, also referred as **API** between application and network *figure 2.3*
+	- The application developer has control over everything on the application-layer side of the socket but has limited control over the transport-layer side. The application developer can choose the transport protocol and may be able to fix a few transport-layer parameters such as maximum buffer and maximum segment sizes. Once the transport protocol is selected, the application is built using the transport-layer services provided by that protocol
+	- Processes use port numbers to differentiate network applications running on a system, creating a unique address that identifies the specific process responsible for communication. Standardized and unique port numbers are allocated by [IANA](https://www.iana.org/).
+![[process_comunication.png]]
+![[sockets.png]]
+
+- ### 2.1.3 Transport Services Available to Applications
+	- **Reliable Data Transfer** 
+		- The protocol achieves this by detecting lost or corrupted packets and retransmitting them until the receiver acknowledges their successful receipt. This service is important for applications that require the correct delivery of data, such as email, file transfer, and financial applications.
+	- **Throughput**
+		- rate at which the sending process can deliver bits to another process
+		- Because other sessions will be sharing the bandwidth along the network path, and because these other sessions will be coming and going, the available throughput can fluctuate with time
+		- Bandwidth-sensitive applications, such as internet telephony, have specific throughput requirements and require a transport protocol that can provide the necessary data delivery rate. If the protocol cannot provide the required throughput, the application may need to lower its coding rate or may become unusable. In contrast, elastic applications, such as email, file transfer, and web transfers, can use as much or as little throughput as available. While bandwidth-sensitive applications require a specific throughput, elastic applications benefit from more throughput, and having higher throughput is always better.
+	- **Timing**
+		- Transport-layer protocols can provide timing guarantees for real-time applications such as Internet telephony and multiplayer games. Lower delays are preferable for non-real-time applications.
+	- **Security**
+		- A transport protocol can provide security services to an application such as encrypting all transmitted data to provide confidentiality. It can also offer data integrity and end-point authentication services.
+
+--- 
+- ### 2.1.4 Transport Services Provided by the Internet
+ ![[network_applications_requirements.png]]
+	 - 
