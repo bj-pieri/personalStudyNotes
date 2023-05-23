@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer.md",
+                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.2  The Web and HTTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc537bbc5ceb82e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.1 Principles of Network Application.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer.md",
+                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.2  The Web and HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer.md",
+                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.2  The Web and HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer.md"
+                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.2  The Web and HTTP.md"
               }
             }
           }
@@ -154,22 +166,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1fb4c0581af86fa9",
+  "active": "8393a1f2a7c5d83b",
   "lastOpenFiles": [
-    "Computer Networking/Computer Networking Topdown Aproach/media/network_applications_requirements.png",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/2-11_web_cache.png",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/2-10_user_state_with_cookies.png",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/2-9_general_format_http_response_message.png",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.1 Principles of Network Application.md",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.2  The Web and HTTP.md",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/http_response_message.png",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/2-8_general_format_http_request_message.png",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/http_request_message.png",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/http_request_message.ong",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/2-7_rtt_TCP.png",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/2-6_http_request-response_behavior.png",
+    "Python/Projects Ideas and References.md",
+    "Python",
+    "Pasted image 20230504221259.png",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/sockets.png",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/process_comunication.png",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer.md",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/Chapter 2 - Application Layer.md",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer",
     "media/network_archtectures.png.md",
     "Untitled.canvas",
-    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer.md",
-    "Computer Networking/Computer Networking Topdown Aproach/media/sockets.png",
-    "Computer Networking/Computer Networking Topdown Aproach/media/process_comunication.png",
-    "Computer Networking/Computer Networking Topdown Aproach/media/network_archtectures.png",
     "media",
     "Computer Networking/Computer Networking Topdown Aproach/media",
-    "Computer Networking/Computer Networking Topdown Aproach/network_archtectures.png",
-    "Pasted image 20230429231847.png",
-    "Pasted image 20230429231813.png",
     "Computer Networking/Computer Networking Topdown Aproach",
-    "Untitled",
     "Java",
     "Computer Networking"
   ]
