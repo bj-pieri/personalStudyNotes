@@ -8,30 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8393a1f2a7c5d83b",
+            "id": "d884ae6a8a5a4e21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.2  The Web and HTTP.md",
+                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.3 Electronic Mail in the Internet.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fc537bbc5ceb82e2",
+            "id": "fa8ad2f6e4132eda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.1 Principles of Network Application.md",
+                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.4 DNS - The Internet's Directory Service.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.2  The Web and HTTP.md",
+                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.4 DNS - The Internet's Directory Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.2  The Web and HTTP.md",
+                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.4 DNS - The Internet's Directory Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.2  The Web and HTTP.md"
+                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.4 DNS - The Internet's Directory Service.md"
               }
             }
           }
@@ -166,13 +167,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8393a1f2a7c5d83b",
+  "active": "1fb4c0581af86fa9",
   "lastOpenFiles": [
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.3 Electronic Mail in the Internet.md",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.4 DNS - The Internet's Directory Service.md",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/view_email_system.png",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.1 Principles of Network Application.md",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.2  The Web and HTTP.md",
+    "aditya_bhargava_-_grokking_algorithms_2016.pdf",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/conditional_get_example.png",
     "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/2-11_web_cache.png",
     "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/2-10_user_state_with_cookies.png",
     "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/2-9_general_format_http_response_message.png",
-    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.1 Principles of Network Application.md",
-    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.2  The Web and HTTP.md",
     "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/http_response_message.png",
     "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/2-8_general_format_http_request_message.png",
     "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/http_request_message.png",
@@ -181,11 +187,7 @@
     "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/2-6_http_request-response_behavior.png",
     "Python/Projects Ideas and References.md",
     "Python",
-    "Pasted image 20230504221259.png",
-    "Untitled.md",
     "Untitled 1.md",
-    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/sockets.png",
-    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/process_comunication.png",
     "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media",
     "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer.md",
     "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/Chapter 2 - Application Layer.md",
