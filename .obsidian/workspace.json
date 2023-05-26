@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b851bc4650787750",
@@ -167,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1fb4c0581af86fa9",
+  "active": "fa8ad2f6e4132eda",
   "lastOpenFiles": [
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/2-17_hierachy_of_dns_servers.png",
     "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.3 Electronic Mail in the Internet.md",
     "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.4 DNS - The Internet's Directory Service.md",
     "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/view_email_system.png",
