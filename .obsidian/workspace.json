@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f0c553d4136bd727",
+        "id": "0713b4a1acdb7f6b",
         "type": "tabs",
         "children": [
           {
-            "id": "d884ae6a8a5a4e21",
+            "id": "55a7987d5f524bd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.3 Electronic Mail in the Internet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa8ad2f6e4132eda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.4 DNS - The Internet's Directory Service.md",
+                "file": "Linux/Unix and Linux System Administration Handbook/1. Basic Administration/2. Booting and System Management Daemons.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.4 DNS - The Internet's Directory Service.md",
+                "file": "Linux/Unix and Linux System Administration Handbook/1. Basic Administration/2. Booting and System Management Daemons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.4 DNS - The Internet's Directory Service.md",
+                "file": "Linux/Unix and Linux System Administration Handbook/1. Basic Administration/2. Booting and System Management Daemons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.4 DNS - The Internet's Directory Service.md"
+                "file": "Linux/Unix and Linux System Administration Handbook/1. Basic Administration/2. Booting and System Management Daemons.md"
               }
             }
           }
@@ -168,38 +155,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa8ad2f6e4132eda",
+  "active": "55a7987d5f524bd3",
   "lastOpenFiles": [
-    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/2-17_hierachy_of_dns_servers.png",
-    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.3 Electronic Mail in the Internet.md",
-    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.4 DNS - The Internet's Directory Service.md",
-    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/view_email_system.png",
-    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.1 Principles of Network Application.md",
+    "Linux/Unix and Linux System Administration Handbook/1. Basic Administration/media/linux_unix_boot_process.png",
     "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.2  The Web and HTTP.md",
+    "Linux/Unix and Linux System Administration Handbook/1. Basic Administration/2. Booting and System Management Daemons.md",
+    "Linux/Unix and Linux System Administration Handbook/1. Basic Administration/media",
+    "Linux/Unix and Linux System Administration Handbook/1. Basic Administration",
+    "Linux/Unix and Linux System Administration Handbook/2. Booting and System Management Daemons",
+    "Linux/Unix and Linux System Administration Handbook/media",
+    "Linux/Unix and Linux System Administration Handbook",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.6 Video Streaming and Content Distribution Networks.md",
+    "Linux/Unix and Linux System Administration Handbook/2 Booting and System Management Daemons.md",
+    "Linux/Unix and Linux System Administration Handbook/media/linux_unix_boot_process.png",
+    "Linux/Unix and Linux System Administration HAndbook/2 Booting and System Management Daemons.md",
+    "Linux/Unix and Linux System Administration HAndbook/media",
+    "Linux/Unix and Linux System Administration HAndbook",
+    "Linux",
+    "Docker Up Running, 3rd Edition (Final Release) (Sean P. Kane with Karl Matthias) (Z-Library).epub",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.1 Principles of Network Application.md",
+    "Untitled.canvas",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.5 Peer-to-Peer File Distribution.md",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.4 DNS - The Internet's Directory Service.md",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/2.3 Electronic Mail in the Internet.md",
+    "Python/Projects Ideas and References.md",
     "aditya_bhargava_-_grokking_algorithms_2016.pdf",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/2-21_DNS_message_format.png",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/2-19_DNS_interaction.png",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/2-17_hierachy_of_dns_servers.png",
+    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/view_email_system.png",
     "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/conditional_get_example.png",
     "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/2-11_web_cache.png",
     "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/2-10_user_state_with_cookies.png",
     "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/2-9_general_format_http_response_message.png",
     "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/http_response_message.png",
-    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/2-8_general_format_http_request_message.png",
-    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/http_request_message.png",
-    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/http_request_message.ong",
-    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/2-7_rtt_TCP.png",
-    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media/2-6_http_request-response_behavior.png",
-    "Python/Projects Ideas and References.md",
-    "Python",
     "Untitled 1.md",
-    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/media",
     "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer.md",
     "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer/Chapter 2 - Application Layer.md",
-    "Computer Networking/Computer Networking Topdown Aproach/Chapter 2 - Application Layer",
-    "media/network_archtectures.png.md",
-    "Untitled.canvas",
-    "media",
-    "Computer Networking/Computer Networking Topdown Aproach/media",
-    "Computer Networking/Computer Networking Topdown Aproach",
-    "Java",
-    "Computer Networking"
+    "media/network_archtectures.png.md"
   ]
 }
